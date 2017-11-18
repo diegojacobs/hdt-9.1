@@ -1,0 +1,10 @@
+{
+    "inputMessageMetadata": {
+        "inboundProperties": {
+            "mymessage": {}
+        }
+    },
+    "outputMessageMetadata": {},
+    "id": "7fd1d33d-e392-4c2d-8205-a793677691ce",
+    "version": "5.2.0.0"
+}
